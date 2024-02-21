@@ -25,7 +25,7 @@ SECRET_KEY = env('SECRET_KEY')
 
 DEBUG = ENVIRONMENT == 'development'
 
-ALLOWED_HOSTS = ['crud-django-react.up.railway.app', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['testdeploy.up.railway.app', 'localhost', '127.0.0.1']
 
 # Application definition
 
